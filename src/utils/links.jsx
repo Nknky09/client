@@ -33,3 +33,5 @@ const links = [
     icon: <MdQueryStats />,
   },
 ];
+
+export default links;
